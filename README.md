@@ -21,5 +21,6 @@ Implementing package creation and continuous integration workflow
      - You just need to copy the file in the online notes and make changes accordingly
    - Make sure to create the `requirements.txt` file by `pip freeze > requirements.txt`
    - Finally type `pip install .`
-   
+5. **Implement workflow (Continuous integration)**
+   - we have to create a yamlfile here `.github/workflows/workflow.yml`
 	
